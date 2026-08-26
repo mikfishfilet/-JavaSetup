@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java-course-setup-check">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java-course-setup-check.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
